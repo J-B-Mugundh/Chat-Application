@@ -26,7 +26,7 @@ else{
                 <div class="input-group-btn">
                     <div class="input-group-btn">
                         <center><a href="include/find_friends.php">
-                            <button class="btn btn-default search-icon" name="search_user" type="submit">Add new user</button>
+                            <button class="btn btn-default search-icon" name="search_user" type="submit">Settings</button>
                         </a></center>
                     </div>
                 </div>
