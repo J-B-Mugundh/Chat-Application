@@ -114,9 +114,9 @@ else {
                                         <div class="modal-body">
                                             <form action="recovery.php?id=<?php echo $user_id; ?>" method="post" id="f">
                                                 <strong>
-                                                    What is your School Best friend name?
+                                                    What is your Forgotten Password?
                                                 </strong>
-                                                <textarea class="form-control" cols="83" rows="4" name="content" placeholder="Someone"></textarea><br>
+                                                <textarea class="form-control" cols="83" rows="4" name="content" placeholder="Enter your forgotten password..."></textarea><br>
                                                 <input type="submit" class="btn btn-default" name="sub" value="Submit" style="width: 100px;"><br><br>
                                                 <pre>Answer the above question. We will ask you this question if you forgot your <br>Password.</pre><br><br>
                                             </form>
