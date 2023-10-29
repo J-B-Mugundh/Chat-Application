@@ -30,4 +30,4 @@ Contributions are welcome! If you find issues or have suggestions for improvemen
 
 ---
 
-For any inquiries or support, please contact [mugundhjb@gmail.com](mailto:mugundhjb@gmail.com).
+For questions or inquiries, please contact [Mugundh J B](mailto:mugundhjb.com) or [Shyamala R B](mailto:shyamalamallika@gmail.com) or [Shivani Suresh](mailto:shivan.suresh@gmail.com)
